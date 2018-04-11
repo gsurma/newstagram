@@ -1,0 +1,6 @@
+framework module Pods_Newstagram {
+  umbrella header "Pods-Newstagram-umbrella.h"
+
+  export *
+  module * { export * }
+}
